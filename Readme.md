@@ -25,8 +25,8 @@
 - It took me around 1 hours to built this website from scratch.
 
 ## Links
-- [live demo]()
-- [source]()
+- [live demo](https://binary2decimal-converstion.netlify.app/)
+- [source](https://github.com/RAM844/Binary2Decimal-using-Javascript)
 
 
 ## Contact me
